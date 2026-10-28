@@ -1,4 +1,4 @@
-!-- ANIMATED BLUE HEADER -->
+<!-- ANIMATED BLUE HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:64B5F6&height=220&section=header&text=Sruthi%20Jakkam&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer&descSize=19&descAlignY=58" width="100%" alt="Animated blue header" />
 </p>
